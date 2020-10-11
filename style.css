@@ -1,0 +1,11 @@
+  .btn {
+      width: 100px;
+    }
+
+    .display {
+        width: 100px;
+        color: red;
+        text-align: center;
+        border-style: solid;
+        border-width: 1px;
+    }
